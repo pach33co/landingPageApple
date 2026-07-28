@@ -17,7 +17,7 @@ function NavBar() {
                 </div>
 
                 <div>
-                    <button className="bg-blue-700 px-6 py-1.5 rounded-full">Comprar</button>
+                    <button className="bg-blue-700 hover:bg-blue-900 px-6 py-1.5 rounded-full cursor-pointer">Comprar</button>
                 </div>
 
             </div>
