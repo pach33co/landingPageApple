@@ -5,7 +5,7 @@ function Hero() {
         <section className="relative h-screen overflow-hidden bg-black">
 
             <div className="absolute top-16 bottom-0 right-0 left-0 z-0">
-                <img className="w-full h-full object-cover opacity-90" src="/img/heroImage.jpg" />
+                <video className="w-full h-full object-cover opacity-90" src="/video/intro-iphone-hero.mp4" autoPlay muted loop playsInline />
                 <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-transparent to-black/80"></div>
             </div>
 
