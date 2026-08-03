@@ -18,7 +18,7 @@ function Colors() {
     const selected = colors.find(color => color.id === selectedColor);
 
     return (
-        <section className="bg-white py-24 px-8" id="colors">
+        <section className="bg-white py-24 px-8" id="cores">
             <div className="max-w-7xl mx-auto">
 
                 <div className="text-center mb-16">

@@ -12,7 +12,7 @@ function NavBar() {
                 <div className="flex-1 flex items-center justify-center gap-8">
                     <a href="#design" className="hover:text-gray-300">Design</a>
                     <a href="#cameras" className="hover:text-gray-300">Câmeras</a>
-                    <a href="#desempenho" className="hover:text-gray-300">Desempenho</a>
+                    <a href="#cores" className="hover:text-gray-300">Cores</a>
                     <a href="#acessorios" className="hover:text-gray-300">Acessórios</a>
                 </div>
 
