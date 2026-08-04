@@ -3,6 +3,7 @@ import Intro from "./components/Intro";
 import NavBar from "./components/NavBar";
 import Highlights from "./components/Highlights"
 import Colors from "./components/Colors";
+import Accessories from "./components/Accessories";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Intro />
       <Highlights />
       <Colors />
+      <Accessories />
     </div>
   )
 }

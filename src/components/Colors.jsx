@@ -42,7 +42,7 @@ function Colors() {
                                     className="group relative p-1 cursor-pointer mb-3"
                                 >
                                     <div
-                                        className={`w-6 h-6 rounded-full border-1 shadow-sm transition-all duration-300 group-hover:scale-110
+                                        className={`w-6 h-6 rounded-full shadow-sm transition-all duration-300 group-hover:scale-110
                                         ${color.colorClass}
                                         ${selectedColor === color.id ? 'border-black ring-2 ring-black' : 'border-gray-300'}`}
                                     >
