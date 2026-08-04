@@ -4,6 +4,7 @@ import NavBar from "./components/NavBar";
 import Highlights from "./components/Highlights"
 import Colors from "./components/Colors";
 import Accessories from "./components/Accessories";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Highlights />
       <Colors />
       <Accessories />
+      <Footer />
     </div>
   )
 }
